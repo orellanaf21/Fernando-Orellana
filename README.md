@@ -3,7 +3,7 @@
 About me:
 - Hobbies: I like biking, hiking, and play videogames
 - I am majoring in Computer Science with a concentration in Software and Networks
-- I am originally from El Salvador
+- I am was born in El Salvador
 
 Project:
 - Bookstore: This is a project that I worked on in 1213, where I programmed a bookstore system from scratch which takes user input let's the user select what books it wants to buy. It used a csv file to populate the program with data and also to update the results after the user bought from it. The programming language used was Java for this project.
